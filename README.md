@@ -37,6 +37,12 @@ Open Brower
 
 ```
 
+* Status on Docker Desktop: 
+
+<IMG SRC= "image-2.png">
+
+
+
 
 ## Conect a MONGOSHELL
 
